@@ -1,0 +1,13 @@
+C:\Users\johnd\Desktop\TA_repo\14_C#_Arrays_and_Lists\Arrays_Lists_Exercise3\Arrays_Lists\bin\Debug\netcoreapp3.1\CollectionsMasterAppUI.exe
+C:\Users\johnd\Desktop\TA_repo\14_C#_Arrays_and_Lists\Arrays_Lists_Exercise3\Arrays_Lists\bin\Debug\netcoreapp3.1\CollectionsMasterAppUI.deps.json
+C:\Users\johnd\Desktop\TA_repo\14_C#_Arrays_and_Lists\Arrays_Lists_Exercise3\Arrays_Lists\bin\Debug\netcoreapp3.1\CollectionsMasterAppUI.runtimeconfig.json
+C:\Users\johnd\Desktop\TA_repo\14_C#_Arrays_and_Lists\Arrays_Lists_Exercise3\Arrays_Lists\bin\Debug\netcoreapp3.1\CollectionsMasterAppUI.runtimeconfig.dev.json
+C:\Users\johnd\Desktop\TA_repo\14_C#_Arrays_and_Lists\Arrays_Lists_Exercise3\Arrays_Lists\bin\Debug\netcoreapp3.1\CollectionsMasterAppUI.dll
+C:\Users\johnd\Desktop\TA_repo\14_C#_Arrays_and_Lists\Arrays_Lists_Exercise3\Arrays_Lists\bin\Debug\netcoreapp3.1\CollectionsMasterAppUI.pdb
+C:\Users\johnd\Desktop\TA_repo\14_C#_Arrays_and_Lists\Arrays_Lists_Exercise3\Arrays_Lists\obj\Debug\netcoreapp3.1\CollectionsMasterAppUI.csprojAssemblyReference.cache
+C:\Users\johnd\Desktop\TA_repo\14_C#_Arrays_and_Lists\Arrays_Lists_Exercise3\Arrays_Lists\obj\Debug\netcoreapp3.1\CollectionsMasterAppUI.AssemblyInfoInputs.cache
+C:\Users\johnd\Desktop\TA_repo\14_C#_Arrays_and_Lists\Arrays_Lists_Exercise3\Arrays_Lists\obj\Debug\netcoreapp3.1\CollectionsMasterAppUI.AssemblyInfo.cs
+C:\Users\johnd\Desktop\TA_repo\14_C#_Arrays_and_Lists\Arrays_Lists_Exercise3\Arrays_Lists\obj\Debug\netcoreapp3.1\CollectionsMasterAppUI.csproj.CoreCompileInputs.cache
+C:\Users\johnd\Desktop\TA_repo\14_C#_Arrays_and_Lists\Arrays_Lists_Exercise3\Arrays_Lists\obj\Debug\netcoreapp3.1\CollectionsMasterAppUI.dll
+C:\Users\johnd\Desktop\TA_repo\14_C#_Arrays_and_Lists\Arrays_Lists_Exercise3\Arrays_Lists\obj\Debug\netcoreapp3.1\CollectionsMasterAppUI.pdb
+C:\Users\johnd\Desktop\TA_repo\14_C#_Arrays_and_Lists\Arrays_Lists_Exercise3\Arrays_Lists\obj\Debug\netcoreapp3.1\CollectionsMasterAppUI.genruntimeconfig.cache
