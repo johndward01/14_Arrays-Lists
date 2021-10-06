@@ -16,7 +16,7 @@ namespace ArraysAndLists
              * Name one List "evens"
              * Name the other List "odds"
              */
-            List<int> evens = new List<int>();
+            var evens = new List<int>();
             List<int> odds = new List<int>();
 
             /* Using either a foreach or for loop,
@@ -25,6 +25,7 @@ namespace ArraysAndLists
              * Then add those numbers to either the evens List
              * or the odds List
              */
+
             foreach (var number in arr)
             {
                 if (number % 2 == 0)
@@ -42,20 +43,20 @@ namespace ArraysAndLists
              *
              * Try to be creative in your display
              */
-            Console.WriteLine($"This is the list of evens:");
+            
+            Console.WriteLine("Evens:");
             for (int i = 0; i < evens.Count; i++)
-            {                
+            {
                 Console.WriteLine(evens[i]);
             }
-            
-            Console.WriteLine();
-            Console.WriteLine();
 
-            Console.WriteLine($"This is the list of odds:");
-            foreach (var number in odds)
+            Console.WriteLine();
+            Console.WriteLine("Odds: ");
+            foreach (var num in odds)
             {
-                Console.WriteLine(number);
+                Console.WriteLine(num);
             }
+
         }
     }
 }
